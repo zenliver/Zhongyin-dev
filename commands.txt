@@ -1,0 +1,16 @@
+﻿进入开发目录后：
+
+1、安装gulp开发依赖
+npm install gulp --save-dev
+
+2、安装gulp-file-include
+npm install gulp-file-include
+
+3、安装less编译器gulp-less
+npm install gulp-less
+
+4、安装sourcemaps生成器gulp-sourcemaps
+npm install gulp-sourcemaps
+
+5、安装browser-sync开发依赖
+npm install browser-sync gulp --save-dev
