@@ -163,7 +163,7 @@ $(function () {
         if (screenWidth < 1200) {
             $(window).load(function () {
                 var swiperContainerWidth = $("#products_detail .swiper-container").width();
-                $("#products_detail .swiper-container").css("max-height",swiperContainerWidth);
+                $("#products_detail .swiper-container").css("max-height",swiperContainerWidth+"px");
             });
         }
 
